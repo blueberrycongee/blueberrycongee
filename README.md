@@ -4,9 +4,11 @@ I'm a developer passionate about coding and technology.
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://stats.justsong.cn/api?username=blueberrycongee&show_icons=true&theme=tokyonight" alt="blueberrycongee's stats" />
+  
+  <img src="https://stats.justsong.cn/api/top-langs/?username=blueberrycongee&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
