@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Efficiency%20%26%20Vibe%20With%20Code&descAlignY=55&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Efficiency%20%26%20Value&descAlignY=55&descSize=25" width="100%"/>
 
 <a href="https://github.com/blueberrycongee">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Dev+focusing+on+AI+%26+Business.;Obsessed+with+Efficiency+Tools.;Practitioner+of+Vibe+Coding.;Turning+Coffee+into+Utility+Software." alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/><br/>
 
@@ -72,6 +76,6 @@
     </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
