@@ -1,62 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Efficiency%20and%20Value&descAlignY=55&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263238,100:FF5722&height=220&section=header&text=Blueberrycongee&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Engineering%20Value.%20Cultivating%20Vibe.&descAlignY=60&descSize=20&descColor=ffccbc" width="100%"/>
 
-<a href="https://github.com/blueberrycongee">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Dev+focusing+on+AI+%26+Business.;Obsessed+with+Efficiency+Tools.;Practitioner+of+Vibe+Coding.;Turning+Coffee+into+Utility+Software." alt="Typing SVG" />
-</a>
+<h1>
+  <samp>AI Strategist · Efficiency Builder · Vibe Coder</samp>
+</h1>
+<p align="center">
+  <samp> Bridging the gap between technical code and business reality.</samp>
+</p>
 
-<br/>
+<br>
 
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="33%" align="center" valign="top">
+      <h3>🤖 AI & Business Logic</h3>
+      <p>Leveraging LLMs and data to build smarter systems that drive real business value, not just hype.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚡ The "Vibe Coding" Flow</h3>
+      <p>Finding that perfect state where tools vanish and creativity takes over. Coding should feel <i>good</i>.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛠️ Utility & Efficiency</h3>
+      <p>Obsessed with creating high-leverage tools that automate the mundane and speed up workflows.</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="left">🛠️ Core Tech Stack</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/Java-263238?style=flat-square&logo=openjdk&logoColor=FF5722" />
+    <img src="https://img.shields.io/badge/Python-263238?style=flat-square&logo=python&logoColor=FF5722" />
+    <img src="https://img.shields.io/badge/Rust-263238?style=flat-square&logo=rust&logoColor=FF5722" />
+    <br>
+    <img src="https://img.shields.io/badge/AI_&_LLMs-FF5722?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-FF5722?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux_Dev-FF5722?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+<h3 align="left">📊 Coding Activity</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<br/><br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<h3>👨‍💻 About Me</h3>
-
-<p>
-    Hi, I'm <b>blueberrycongee</b>. I am a developer passionate about bridging the gap between <b>technical code</b> and <b>business value</b>.
-</p>
-<p>
-    My philosophy is <b>"Vibe Coding"</b>—finding the perfect flow state to build software that not only works but feels great to use. I focus on creating <b>efficiency tools</b> and exploring the potential of <b>Artificial Intelligence</b> to automate the mundane and empower creativity.
-</p>
-
-<h3>🚀 Interests & Focus</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Focus-AI_%26_LLMs-black?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Business_Logic-blue?style=flat-square&logo=google-analytics&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Vibe-Coding-8A2BE2?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Build-Utility_Tools-orange?style=flat-square&logo=rust&logoColor=white"/>
-</p>
-
-<h3>🛠️ Tech Stack</h3>
-
-<p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <br/>
-    <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-<h3>📊 GitHub Stats</h3>
-
+<h3>📈 GitHub Insights</h3>
 <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 <br/>
 <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
@@ -65,21 +64,18 @@
 </tr>
 </table>
 
-<h3>📈 Coding Activity</h3>
-<img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
-
-<br/><br/>
+<br><br>
 
 <h3>📫 Let's Connect</h3>
 <p align="center">
     <a href="mailto:lpageo@163.com">
-        <img src="https://img.shields.io/badge/Email-lpageo%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-lpageo%40163.com-263238?style=for-the-badge&logo=gmail&logoColor=FF5722" />
     </a>
     <a href="https://github.com/blueberrycongee">
-        <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-Follow_Me-FF5722?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=263238&height=80&section=footer" width="100%"/>
 
 </div>
