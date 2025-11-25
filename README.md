@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm blueberrycongee! 👋
 
-<!--
-**blueberrycongee/blueberrycongee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about coding and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&theme=tokyonight" alt="blueberrycongee's stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 How to reach me:
+* Email: lpageo@163.com
+* Blog: https://blueberrycongee.github.io/
+
+![Visitor Count](https://profile-counter.glitch.me/blueberrycongee/count.svg)
