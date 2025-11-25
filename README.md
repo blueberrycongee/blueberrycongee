@@ -4,16 +4,16 @@ I'm a developer passionate about coding and technology.
 
 ---
 
-<div align="center">
-  <img src="https://stats.justsong.cn/api?username=blueberrycongee&show_icons=true&theme=tokyonight" alt="blueberrycongee's stats" />
-  
-  <img src="https://stats.justsong.cn/api/top-langs/?username=blueberrycongee&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 How to reach me:
 * Email: lpageo@163.com
 * Blog: [https://blueberrycongee.github.io/](https://blueberrycongee.github.io/)
-
-![Visitor Count](https://profile-counter.glitch.me/blueberrycongee/count.svg)
