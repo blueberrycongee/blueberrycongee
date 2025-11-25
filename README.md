@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Efficiency%20%26%20Value&descAlignY=55&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20Build%20Efficiency%20and%20Value&descAlignY=55&descSize=25" width="100%"/>
 
 <a href="https://github.com/blueberrycongee">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Dev+focusing+on+AI+%26+Business.;Obsessed+with+Efficiency+Tools.;Practitioner+of+Vibe+Coding.;Turning+Coffee+into+Utility+Software." alt="Typing SVG" />
