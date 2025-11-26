@@ -13,32 +13,53 @@
 <samp> "Bridging the gap between technical code and business reality."</samp>
 </p>
 
-<!-- 核心三要素 -->
+<!-- 社交按钮区 (上移以平衡视觉) -->
 
 <p>
+<a href="mailto:lpageo@163.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-lpageo%2540163.com-263238%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3DFF5722" />
+</a>
+<a href="https://github.com/blueberrycongee">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Follow_Me-FF5722%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
+</a>
+</p>
+
+<!-- 核心三要素 -->
+
+<table align="center" border="0" width="90%">
+<tr>
+<td width="33%" align="center" valign="top">
 <b>🤖 AI & Business Logic</b>
 
 
 
 
+
+
 Leveraging <b>LLMs</b> and data to build smarter systems that drive real business value, not just hype.
-</p>
-<p>
+</td>
+<td width="33%" align="center" valign="top">
 <b>⚡ The "Vibe Coding" Flow</b>
 
 
 
 
+
+
 Finding that perfect state where tools vanish and creativity takes over. Coding should feel <i>good</i>.
-</p>
-<p>
+</td>
+<td width="33%" align="center" valign="top">
 <b>🛠️ Utility & Efficiency</b>
 
 
 
 
+
+
 Obsessed with creating <b>high-leverage tools</b> that automate the mundane and speed up workflows.
-</p>
+</td>
+</tr>
+</table>
 
 <!-- 核心技术栈 -->
 
@@ -69,20 +90,9 @@ Obsessed with creating <b>high-leverage tools</b> that automate the mundane and 
 <!-- GitHub 数据统计 -->
 
 <h3>📈 GitHub Insights</h3>
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
 <img src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
-</p>
-
-<!-- 社交按钮区 (已修复) -->
-
-<p>
-<a href="mailto:lpageo@163.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-lpageo%2540163.com-263238%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3DFF5722" />
-</a>
-<a href="https://github.com/blueberrycongee">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Follow_Me-FF5722%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
 </p>
 
 <!-- 底部 Footer -->
