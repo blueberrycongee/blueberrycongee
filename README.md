@@ -31,32 +31,20 @@
 <td width="33%" align="center" valign="top">
 <b>🤖 AI & Business Logic</b>
 
-
-
-
-
-
 Leveraging <b>LLMs</b> and data to build smarter systems that drive real business value, not just hype.
+
 </td>
 <td width="33%" align="center" valign="top">
 <b>⚡ The "Vibe Coding" Flow</b>
 
-
-
-
-
-
 Finding that perfect state where tools vanish and creativity takes over. Coding should feel <i>good</i>.
+
 </td>
 <td width="33%" align="center" valign="top">
 <b>🛠️ Utility & Efficiency</b>
 
-
-
-
-
-
 Obsessed with creating <b>high-leverage tools</b> that automate the mundane and speed up workflows.
+
 </td>
 </tr>
 </table>
@@ -68,10 +56,6 @@ Obsessed with creating <b>high-leverage tools</b> that automate the mundane and 
 <img src="https://img.shields.io/badge/Java-263238?style=flat-square&logo=openjdk&logoColor=FF5722" />
 <img src="https://img.shields.io/badge/Python-263238?style=flat-square&logo=python&logoColor=FF5722" />
 <img src="https://img.shields.io/badge/Rust-263238?style=flat-square&logo=rust&logoColor=FF5722" />
-
-
-
-
 
 <img src="https://img.shields.io/badge/AI_&_LLMs-FF5722?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-FF5722?style=flat-square&logo=docker&logoColor=white" />
