@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>Hi, I'm <span style="color: #FF5722;">Blueberrycongee</span></h1>
-<h3>🚀 AI Infrastructure & Agentic Systems Engineer</h3>
+<h3>🤖 AI Agent Architect & Python Engineer</h3>
 
 <p>
-  <b>Bridging the gap between High-Level Reasoning (Agents) and Low-Level Performance (CUDA).</b>
+  <b>Crafting intelligent workflows and robust AI applications with modern Agentic frameworks.</b>
 </p>
 
 <p>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/WeChat-andywu--china-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+    <img src="https://img.shields.io/badge/WeChat-andywu--china-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat ID: andywu-china" title="Search 'andywu-china' on WeChat to add me" />
   </a>
 </p>
 
@@ -24,25 +24,25 @@
 <table align="center" border="0" width="90%">
   <tr>
     <td width="45%" align="left" valign="top">
-      <h3>🧠 AI Agent & Orchestration</h3>
-      <p>Building autonomous systems with complex logic and tool use.</p>
+      <h3>🧠 Agent Orchestration & Logic</h3>
+      <p>Designing complex, stateful multi-agent systems.</p>
       <p>
-        <img src="https://img.shields.io/badge/Framework-LangGraph%20%2F%20LangChain-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Python%20%2F%20Pydantic-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Core-LangGraph%20%2F%20LangChain-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Logic-Pydantic%20%2F%20Typing-3776AB?style=flat-square&logo=python&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/badge/Model-DeepSeek%20%2F%20Qwen-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Multi--Agent%20Collaboration-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flow-Multi--Agent%20Collaboration-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Skill-Prompt%20Engineering-green?style=flat-square" />
       </p>
     </td>
     <td width="45%" align="left" valign="top">
-      <h3>⚡ HPC & Kernel Optimization</h3>
-      <p>Optimizing inference and pushing hardware limits.</p>
+      <h3>🛠️ AI Engineering & Backend</h3>
+      <p>Turning models into production-ready services.</p>
       <p>
-        <img src="https://img.shields.io/badge/Language-C++%20%2F%20CUDA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hardware-NVIDIA%20Cutlass-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Language-Python%203.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data-RAG%20%2F%20Vector%20DBs-purple?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/badge/Inference-vLLM%20%2F%20TensorRT-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Kernel%20Performance-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Infra-Docker%20%2F%20API-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tools-Cursor%20%2F%20Vibe%20Coding-black?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -53,28 +53,14 @@
 <div align="left" style="width: 90%; margin: auto;">
   <h3>🔭 Current Focus & Contributions</h3>
   <ul>
-    <li><b>Deep Dive:</b> Analyzing <code>LangGraph</code> state management and custom tool logic.</li>
-    <li><b>Optimization:</b> Exploring GEMM optimization and Kernel tuning via <code>NVIDIA/cutlass</code>.</li>
-    <li><b>Open Source:</b> Actively contributing to high-impact AI repositories.</li>
+    <li><b>Agentic Systems:</b> Deep diving into <code>LangGraph</code> state management and graph compilation.</li>
+    <li><b>Open Source:</b> Fixing logic bugs and improving type hints in AI frameworks (e.g., <code>LangChain</code> ecosystem).</li>
+    <li><b>Application:</b> Exploring efficient RAG patterns and tool-calling mechanisms.</li>
   </ul>
 </div>
 
 <br>
 
-<h3>📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blueberrycongee/blueberrycongee/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=263238&height=60&section=footer" width="100%"/>
 
 </div>
