@@ -1,24 +1,68 @@
-# Hi, I'm **Blueberrycongee** 🤖
+<div align="center">
 
-**AI Agent Architect & Python Engineer**
+  <h1>Hi, I'm <span style="color: #FF5722;">Blueberrycongee</span></h1>
+  <h3>🤖 AI Agent Architect & Python Engineer</h3>
+  <p><b>Crafting intelligent workflows and robust AI applications with modern Agentic frameworks.</b></p>
 
-Crafting intelligent workflows and robust AI applications with modern Agentic frameworks.
+  <p>
+    <a href="mailto:lpageo@163.com">
+      <img src="https://img.shields.io/badge/Email-lpageo%40163.com-263238?style=for-the-badge&logo=gmail&logoColor=FF5722" alt="Email" />
+    </a>
+    <a href="https://github.com/blueberrycongee">
+      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/WeChat-andywu--china-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+    </a>
+  </p>
 
-📧 [Email](mailto:lpageo@163.com) | 🐙 [GitHub](https://github.com/blueberrycongee) | 💬 WeChat: andywu--china
+  <br>
 
----
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&hide_progress=true&theme=default" alt="Top Languages" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&locale=en&theme=default&count_private=true" alt="Stats" />
+      </td>
+    </tr>
+  </table>
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <br>
 
-### 🧠 Agent Orchestration
-- **Core:** LangGraph / LangChain
-- **Logic:** Pydantic / Typing
-- **Flow:** Multi-Agent Collaboration
+  <h3>🛠️ Tech Stack & Knowledge</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  </p>
 
-### 🔭 Current Focus
-- **Agentic Systems:** Deep diving into LangGraph state management
-- **Open Source:** Contributing to AI frameworks
-- **RAG:** Efficient retrieval patterns
+  <br>
+
+  <table border="0" width="90%">
+    <tr>
+      <td width="50%" align="left" valign="top">
+        <h3>🧠 Agent Orchestration</h3>
+        <ul>
+          <li><b>Core:</b> LangGraph / LangChain</li>
+          <li><b>Logic:</b> Pydantic / Typing</li>
+          <li><b>Flow:</b> Multi-Agent Collaboration</li>
+        </ul>
+      </td>
+      <td width="50%" align="left" valign="top">
+        <h3>🔭 Current Focus</h3>
+        <ul>
+          <li><b>Agentic Systems:</b> Deep diving into <code>LangGraph</code> state management.</li>
+          <li><b>Open Source:</b> Contributing to AI frameworks.</li>
+          <li><b>RAG:</b> Efficient retrieval patterns.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=263238&height=60&section=footer" width="100%"/>
+
+</div>
