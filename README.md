@@ -20,11 +20,11 @@
 
   <table border="0">
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&hide_progress=true&theme=default" alt="Top Languages" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberrycongee&layout=compact&hide_progress=true&theme=default" alt="Top Languages" />
       </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&locale=en&theme=default&count_private=true" alt="Stats" />
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&locale=en&theme=default&count_private=true" alt="Stats" />
       </td>
     </tr>
   </table>
