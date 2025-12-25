@@ -1,8 +1,8 @@
 <div align="center">
 
   <h1>Hi, I'm <span style="color: #FF5722;">Blueberrycongee</span></h1>
-  <h3>🤖 AI Agent Architect & Python Engineer</h3>
-  <p><b>Crafting intelligent workflows and robust AI applications with modern Agentic frameworks.</b></p>
+
+  <img src="./images/header_1.png" alt="Header" width="100%" />
 
   <p>
     <a href="mailto:lpageo@163.com">
@@ -34,6 +34,8 @@
   <h3>🛠️ Tech Stack & Knowledge</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
