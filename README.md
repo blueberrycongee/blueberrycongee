@@ -28,7 +28,7 @@
 <a href="mailto:lpageo@163.com"><img src="https://img.shields.io/badge/Email-lpageo%40163.com-263238?style=for-the-badge&logo=gmail&logoColor=FF5722" /></a>
 <a href="https://github.com/blueberrycongee"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/WeChat-andywu--china-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-<img src="https://github-badge-counter-q1wo.vercel.app/api/counter?label=Views&color=purple&style=flat" />
+<img src="https://github-badge-counter-q1wo.vercel.app/api/counter?label=Views&color=blueviolet&logo=eye" />
 </p>
 
 <br>
