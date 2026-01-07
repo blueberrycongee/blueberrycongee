@@ -20,11 +20,11 @@ jobs:
           # 基础配置
           user: blueberrycongee
           template: classic
-          base: header # 开启 header，防止插件无数据时图完全空白
+          base: header, repositories # 增加 repositories 以显示提交数等基础统计
           config_timezone: Asia/Shanghai
           
           # 【核心】开启代码行数统计插件
           plugin_lines: yes
           plugin_lines_history_limit: 1  # 统计历史年限（1年）
-          plugin_lines_repositories_limit: 2 # 暂时减小数量以避免超时
+          plugin_lines_repositories_limit: 10 # 增加到10个仓库以获取更准确的数据
           plugin_lines_sections: base # 展示新增/删除的基础图表
