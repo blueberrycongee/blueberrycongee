@@ -33,18 +33,9 @@
 
 <br>
 
-<!--
-<table border="0">
-<tr>
-    <td width="50%" align="center">
-        <img src="./github-metrics.svg" alt="Lines of Code Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=blueberrycongee&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-</tr>
-</table>
--->
+<div align="center">
+    <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</div>
 
 <br>
 
