@@ -6,6 +6,15 @@
 
 <br>
 
+<div align="center" style="width: 85%;">
+<h2>Featured Project</h2>
+<a href="https://github.com/blueberrycongee/Lumina-Note">
+  <img src="./images/lumina.png" alt="Lumina Note" width="100%" />
+</a>
+</div>
+
+<br>
+
 <div align="left" style="width: 85%; line-height: 1.8;">
 <p>🤖 <b>Obsessed with LLM technology.</b> Focusing on Agentic Systems and <code>LangGraph</code> orchestration.</p>
 <p>🚀 <b>Current focus on Cloud Native.</b> Deep diving into the <b>Go</b> ecosystem and <b>Kubernetes (K8s)</b> to build AI infrastructures.</p>
