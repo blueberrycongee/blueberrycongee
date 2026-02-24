@@ -8,8 +8,16 @@
 
 <div align="center" style="width: 85%;">
 <h2>Featured Project</h2>
+<p>📝 A modern, AI-powered note-taking app built for clarity and speed.</p>
 <a href="https://github.com/blueberrycongee/Lumina-Note">
   <img src="./images/lumina.png" alt="Lumina Note" width="100%" />
+</a>
+</div>
+
+<div align="center" style="width: 85%;">
+<p>🎥 A free, open-source screen recorder & editor — screen recording, reimagined.</p>
+<a href="https://github.com/blueberrycongee/CursorLens">
+  <img src="./images/CursorLens.png" alt="CursorLens" width="100%" />
 </a>
 </div>
 
