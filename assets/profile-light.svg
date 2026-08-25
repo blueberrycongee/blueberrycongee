@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="40 0 880 280" role="img" aria-labelledby="title description">
   <title id="title">Jiahe Wu</title>
   <desc id="description">AI engineer building thoughtful software across systems and interfaces.</desc>
 
@@ -12,14 +12,14 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#6b7280">
     <text x="48" y="56">BLUEBERRYCONGEE / 001</text>
-    <text x="912" y="56" text-anchor="end">UTC+08 / ONLINE</text>
+    <text x="888" y="56" text-anchor="end">UTC+08 / ONLINE</text>
     <text x="48" y="232">SYSTEMS — INTERFACES — OPEN SOURCE</text>
     <text x="912" y="232" text-anchor="end">GO / RUST / TYPESCRIPT</text>
   </g>
 
   <g font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" fill="#111318">
-    <text x="44" y="136" font-size="76" font-weight="750" letter-spacing="-4.2">JIAHE</text>
-    <text x="44" y="208" font-size="76" font-weight="750" letter-spacing="-4.2">WU</text>
+    <text x="44" y="136" font-size="76" font-weight="700">JIAHE</text>
+    <text x="44" y="208" font-size="76" font-weight="700">WU</text>
   </g>
 
   <rect x="632" y="80" width="2" height="112" fill="#3157ff"/>
